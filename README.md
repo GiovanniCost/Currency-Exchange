@@ -8,4 +8,4 @@
     <li>JAVASCRIPT</li>
   </ul>
 </h2>
-<img src="">
+<img src="https://raw.githubusercontent.com/GiovanniCost/Currency-Exchange/d25a930f2eb485e42e7985f46d8bc7e253900ba3/assets/foto%20do%20projeto.png">
